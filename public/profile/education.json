@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Jun 2025",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"VIT Vellore, Vellore",
+            "cardDetailedText": "CGPA - 8",
+            "icon" : {
+                "src": "images/education/logo.png"
+            }
+        },
+        {
+            "title": "Apr 2019 - Apr 2021",
+            "cardTitle": "SSC",
+            "cardSubtitle":"Nirman High School, Ahmedabad",
+            "cardDetailedText": "Marks - 84%"
+        },
+        {
+            "title": "Apr 2019 - Apr 2019",
+            "cardTitle": "SSC",
+            "cardSubtitle":"St. Kabir School, Ahmedabad",
+            "cardDetailedText": "Marks - 84%"
+        }
+    ]
+}

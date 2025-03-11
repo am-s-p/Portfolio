@@ -1,0 +1,105 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Paathak's Portfolio",
+            "bodyText": "- My Personal Portfolio",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/hms.png",
+            "title": "Hotel Management Application",
+            "bodyText": "- Developed an application used to manange Hospitals as as a software development project.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/am-s-p/HOSPITAL"
+                },
+                {
+                    "text": "",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "SwiftUI",
+                "Swift",
+                "Firebase",
+                "SQL"
+            ]
+        },
+        {
+            "image" : "images/projects/clyst.jpg",
+            "title": "Clyst App",
+            "bodyText": "- Developed a mobile application during my internship for communication of engineers with the backend staff",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/am-s-p/Clyst-App"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "SwiftUI",
+                "Flutter",
+                "SQL",
+                "Firebase"
+            ]
+        },
+        {
+            "image" :"images/projects/kidney.png",
+            "title": "Chronic Kidney Detection",
+            "bodyText": "- Developed a machine learning model which detects chronic kidney diseases.\n- Used Ensemble Learning Algorithm",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/am-s-p/Kidney-Disease-Detetction"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Random Forest Classifier",
+                "Gradient Boosting Classifier",
+                "Support Vector Machine",
+                "Python",
+                "Google Colab"
+            ]
+        },
+        
+        
+        
+        {
+            "image" : "images/projects/todo.png",
+            "title": "Docker",
+            "bodyText": "- A TO-DO list application where you can save, edit, delete and scheldule notes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/am-s-p/Docket"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "SwiftUI",
+                "Xcode",
+                "Firebase"
+            ]
+        }
+    ]
+}

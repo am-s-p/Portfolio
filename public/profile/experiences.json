@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        
+        {
+            "title": "Developer",
+            "subtitle": "AKS Enterprise",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed an Complaint Management System for a comapany where it can create a complain, assign to an engineer and the engineer gets an update on their device via a details message.",
+                "Used Languages and tools like React, Node, Next, Express, MongoDB, APIs of google maps and WhatApp"
+            ],
+            "dateText": "02/2024 –"
+        },
+        {
+            "title": "App Developer",
+            "subtitle": "NATIVEDEFENCE Pvt. Ltd.",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed a communication App named Clyst for the company to communicate with the engineers and the backend team",
+                "Developed a full-stack application using Flutter, Swift, JAVA and Docker to analyze GitHub data",
+                "Used Languages and tools like Swift, Flutter, SwiftUI, SQL, Firebase"
+            ],
+            "dateText": "08/2023 – 10/2023"
+        }
+    ]
+}
