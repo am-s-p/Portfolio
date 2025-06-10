@@ -1,26 +1,34 @@
 {
-    "experiences": [
-        
-        {
-            "title": "Developer",
-            "subtitle": "AKS Enterprise",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed an Complaint Management System for a comapany where it can create a complain, assign to an engineer and the engineer gets an update on their device via a details message.",
-                "Used Languages and tools like React, Node, Next, Express, MongoDB, APIs of google maps and WhatApp"
-            ],
-            "dateText": "02/2024 –"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "NATIVEDEFENCE Pvt. Ltd.",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed a communication App named Clyst for the company to communicate with the engineers and the backend team",
-                "Developed a full-stack application using Flutter, Swift, JAVA and Docker to analyze GitHub data",
-                "Used Languages and tools like Swift, Flutter, SwiftUI, SQL, Firebase"
-            ],
-            "dateText": "08/2023 – 10/2023"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Developer",
+      "subtitle": "AKS Enterprise",
+      "workType": "Freelance",
+      "workDescription": [
+        "Developed a Complaint Management System for a company where complaints can be created, assigned to engineers, and updates are sent to engineers' devices with detailed messages.",
+        "Used languages and tools like React, Node, Next, Express, MongoDB, and APIs of Google Maps and WhatsApp."
+      ],
+      "dateText": "02/2024 –"
+    },
+    {
+      "title": "App Developer",
+      "subtitle": "NATIVEDEFENCE Pvt. Ltd.",
+      "workType": "Internship",
+      "workDescription": [
+        "Developed a communication app named Clyst for the company to facilitate communication between engineers and the backend team.",
+        "Developed a full-stack application using Flutter, Swift, JAVA, and Docker to analyze GitHub data.",
+        "Used languages and tools like Swift, Flutter, SwiftUI, SQL, and Firebase."
+      ],
+      "dateText": "08/2023 – 10/2023"
+    },
+    {
+      "title": "Programming Analyst Intern",
+      "subtitle": "Cognizant, Hyderabad",
+      "workType": "Internship",
+      "workDescription": [
+        "Developing and maintaining ESP–SAP modules for enterprise clients."
+      ],
+      "dateText": "15/04/2025 – present"
+    }
+  ]
 }
